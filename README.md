@@ -1,3 +1,9 @@
+# Seasons
+
+Seasons is a React based web application that through the use location services and time will tell you what season it is (only displays Summer/Winter). The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js, API's, Ajax Requests and ES6.
+
+[Live Demo](https://h-khan-14.github.io/Seasons/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
